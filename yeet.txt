@@ -65,3 +65,4 @@ doubleclick.net
 g.doubleclick.net
 adclick.g.doubleclick.net
 googleads.g.doubleclick.net
+s0.2mdn.net
