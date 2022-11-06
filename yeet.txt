@@ -61,3 +61,7 @@ app.bugsnag.com
 browser.sentry-cdn.com
 advertising.twitter.com
 widgets.pinterest.com
+doubleclick.net
+g.doubleclick.net
+adclick.g.doubleclick.net
+googleads.g.doubleclick.net
