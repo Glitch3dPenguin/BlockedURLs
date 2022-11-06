@@ -56,3 +56,8 @@ ziffdavis.com
 2mdn.net
 tpc.googlesyndication.com
 googleads.g.doubleclick.net
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+advertising.twitter.com
+widgets.pinterest.com
