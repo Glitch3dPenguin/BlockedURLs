@@ -71,3 +71,4 @@ czilladx.com
 bc.co
 browser.sentry-cdn.com
 external-preview.redd.it
+jivox.com
