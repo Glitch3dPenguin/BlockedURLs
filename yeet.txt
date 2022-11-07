@@ -72,3 +72,7 @@ bc.co
 browser.sentry-cdn.com
 external-preview.redd.it
 jivox.com
+playercdn.jivox.com
+moatads.com
+moat.com
+yimg.com
