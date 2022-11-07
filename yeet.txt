@@ -68,3 +68,4 @@ googleads.g.doubleclick.net
 s0.2mdn.net
 czilladx.com
 bc.co
+browser.sentry-cdn.com
