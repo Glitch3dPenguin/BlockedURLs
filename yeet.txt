@@ -76,3 +76,5 @@ playercdn.jivox.com
 moatads.com
 moat.com
 yimg.com
+taboola.com
+krxd.net
