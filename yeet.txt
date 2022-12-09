@@ -78,3 +78,5 @@ moat.com
 yimg.com
 taboola.com
 krxd.net
+aax-us-pdx.amazon-adsystem.com
+amazon-adsystem.com
