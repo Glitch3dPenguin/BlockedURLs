@@ -122,52 +122,128 @@
 172.67.143.54
 104.21.39.47
 
-affiliationjs.s3.amazonaws.com
-advertising-api-eu.amazon.com
-amazonaax.com
-analytics.tiktok.com
-ads.tiktok.com
-yandexadexchange.net
-adsdk.yandex.ru
-securemetrics.apple.com
-supportmetrics.apple.com
-metrics.icloud.com
-samsungads.com
-smetrics.samsung.com
-samsung-com.112.2o7.net
-config.samsungads.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics5.data.hicloud.com
-metrics5.data.hicloud.com
-logservice.hicloud.com
-hlogservice1.hicloud.com
-metrics-dra.dt.hicloud.com
-api.ad.xiaomi.com
-data.mistat.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.india.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-globalapi.ad.xiaomi.com
-tracking.miui.com
-tracking.miui.com
-tracking.intl.miui.com
-tracking.india.miui.com
-tracking.rus.miui.com
-gumgum.com
-trafficjunky.com
-static.trafficjunky.com
-adtng.com
-adkernel.com
-innovid.com
-flashtalking.com
-ziffdavis.com
-2mdn.net
-tpc.googlesyndication.com
-googleads.g.doubleclick.net
-g.doubleclick.net
-api.bugsnag.com
-app.bugsnag.com
-browser.sentry-cdn.com
-advertising.twitter.com
+# affiliationjs.s3.amazonaws.com
+52.217.15.124
+
+# advertising-api-eu.amazon.com
+54.239.39.175
+
+# amazonaax.com
+199.59.243.222
+
+# analytics.tiktok.com
+23.40.18.5
+
+# ads.tiktok.com
+23.40.18.5
+
+# yandexadexchange.net
+87.250.250.90
+
+# adsdk.yandex.ru
+87.250.250.120
+
+# securemetrics.apple.com
+63.140.38.113
+
+# supportmetrics.apple.com
+17.188.22.91
+
+# metrics.icloud.com
+17.250.102.17
+
+# samsungads.com
+54.191.227.145
+
+# smetrics.samsung.com
+63.140.38.117
+
+# samsung-com.112.2o7.net
+63.140.38.120
+
+# config.samsungads.com
+52.42.229.133
+
+# metrics1.data.hicloud.com
+49.4.35.20
+
+# metrics2.data.hicloud.com
+80.158.2.190
+
+# metrics5.data.hicloud.com
+159.138.203.215
+
+# logservice.hicloud.com
+159.138.84.197
+
+# metrics-dra.dt.hicloud.com
+94.74.88.100
+
+# api.ad.xiaomi.com
+23.49.251.212
+
+# data.mistat.xiaomi.com
+47.74.174.51
+
+# data.mistat.intl.xiaomi.com
+23.49.251.211
+
+# data.mistat.india.xiaomi.com
+23.49.251.203
+
+# sdkconfig.ad.xiaomi.com
+47.88.231.18
+
+# sdkconfig.ad.intl.xiaomi.com
+47.241.56.110
+
+# globalapi.ad.xiaomi.com
+8.219.192.180
+
+# tracking.miui.com
+47.88.232.213
+
+# tracking.intl.miui.com
+8.214.70.214
+
+# tracking.india.miui.com
+43.205.0.173
+
+# tracking.rus.miui.com
+107.155.53.25
+
+# gumgum.com
+146.75.30.132
+
+# trafficjunky.com
+66.254.114.181
+
+# static.trafficjunky.com
+205.185.208.79
+
+# adkernel.com
+173.239.42.215
+
+# innovid.com
+141.192.213.11
+
+# flashtalking.com
+198.185.159.144
+
+# ziffdavis.com
+44.209.23.21
+
+# tpc.googlesyndication.com
+142.251.40.193
+
+# googleads.g.doubleclick.net
+142.250.65.162
+
+# api.bugsnag.com
+35.190.37.226
+
+# browser.sentry-cdn.com
+151.101.2.217
+
+# advertising.twitter.com
+104.244.42.3
