@@ -59,6 +59,68 @@
 52.217.81.68
 52.217.85.140
 
+# widgets.pinterest.com
+151.101.192.84
+151.101.64.84
+151.101.128.84
+151.101.0.84
+
+# doubleclick.net
+142.250.72.142
+
+# adclick.g.doubleclick.net
+142.250.68.66
+
+# googleads.g.doubleclick.net
+142.250.188.226
+
+# s0.2mdn.net
+142.250.189.6
+
+# czilladx.com
+104.26.12.176
+104.26.13.176
+172.67.75.75
+
+# bc.co
+104.18.19.2
+104.18.18.2
+
+# moat.com
+52.23.179.69
+54.83.36.96
+54.204.194.64
+44.205.78.189
+54.83.191.85
+
+# yimg.com
+74.6.136.150
+98.136.103.23
+212.82.100.150
+
+# taboola.com
+151.101.130.132
+151.101.194.132
+151.101.2.132
+151.101.66.132
+
+# aax-us-pdx.amazon-adsystem.com
+52.94.176.89
+
+# tpc.googlesyndication.com
+142.250.72.161
+
+# moatads.com
+23.1.246.10
+52.23.179.69
+
+# asuntiljust.xyz
+104.21.67.231
+172.67.182.123
+
+# filedownloader.one
+172.67.143.54
+104.21.39.47
 
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
@@ -109,58 +171,3 @@ api.bugsnag.com
 app.bugsnag.com
 browser.sentry-cdn.com
 advertising.twitter.com
-
-# widgets.pinterest.com
-151.101.192.84
-151.101.64.84
-151.101.128.84
-151.101.0.84
-
-142.250.72.142         # doubleclick.net
-142.250.68.66          # adclick.g.doubleclick.net
-142.250.188.226        # googleads.g.doubleclick.net
-142.250.189.6          # s0.2mdn.net
-
-104.26.12.176          # czilladx.com
-104.26.13.176          # czilladx.com
-172.67.75.75           # czilladx.com
-
-# bc.co
-104.18.19.2
-104.18.18.2
-
-# moat.com
-52.23.179.69
-54.83.36.96
-54.204.194.64
-44.205.78.189
-54.83.191.85
-
-# yimg.com
-74.6.136.150
-98.136.103.23
-212.82.100.150
-
-# taboola.com
-151.101.130.132
-151.101.194.132
-151.101.2.132
-151.101.66.132
-
-# aax-us-pdx.amazon-adsystem.com
-52.94.176.89
-
-# tpc.googlesyndication.com
-142.250.72.161
-
-# moatads.com
-23.1.246.10
-52.23.179.69
-
-# asuntiljust.xyz
-104.21.67.231
-172.67.182.123
-
-# filedownloader.one
-172.67.143.54
-104.21.39.47
