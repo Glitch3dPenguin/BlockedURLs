@@ -1,2 +1,2 @@
 # BlockedURLs
-Personal List of Blocked Domains for Pi-Hole DNS server.
+Personal List of Blocked Domains formatted for use with pfBlockerNG.
