@@ -114,3 +114,5 @@ advertising.twitter.com
 172.67.182.123         # asuntiljust.xyz
 172.67.143.54          # filedownloader.one
 104.21.39.47           # filedownloader.one
+
+||filedownloader.one^
