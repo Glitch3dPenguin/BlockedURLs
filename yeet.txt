@@ -250,3 +250,6 @@
 
 # brightcove.com
 199.232.194.22
+
+# px.moatads.com
+23.201.61.149
