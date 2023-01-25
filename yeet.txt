@@ -247,3 +247,6 @@
 
 # advertising.twitter.com
 104.244.42.3
+
+# brightcove.com
+199.232.194.22
