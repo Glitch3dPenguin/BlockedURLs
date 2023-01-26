@@ -89,3 +89,4 @@ jac.yahoosandbox.com
 googleads.g.doubleclick.net
 cdn.flashtalking.com
 flashtalking.com
+ad-delivery.net
