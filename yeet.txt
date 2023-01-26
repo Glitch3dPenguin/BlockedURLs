@@ -77,6 +77,11 @@ browser.sentry-cdn.com
 advertising.twitter.com
 brightcove.com
 px.moatads.com
+geo.moatads.com
+mb.moatads.com
+geo.moatads.com
+criteo.com
+gum.criteo.com
 01.beeppool.org
 1q2w3.fun
 2giga.link
