@@ -82,3 +82,5 @@ px.moatads.com
 2giga.link
 jac.yahoosandbox.com
 googleads.g.doubleclick.net
+cdn.flashtalking.com
+flashtalking.com
