@@ -81,3 +81,4 @@ px.moatads.com
 1q2w3.fun
 2giga.link
 jac.yahoosandbox.com
+googleads.g.doubleclick.net
