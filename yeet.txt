@@ -11,6 +11,7 @@ googleadservices.com
 doubleclick.net
 ad.doubleclick.net
 static.doubleclick.net
+adclick.g.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
 media.fastclick.net
