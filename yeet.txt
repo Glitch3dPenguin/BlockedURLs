@@ -164,3 +164,9 @@ totalrecaptcha.top
 get.protectedsearchapp.com
 protectedsearchapp.com
 tabsorg.com
+zm.waygatecrowbar.com
+waygatecrowbar.com
+apathylahuli.website
+gimmehost.org
+thecloudvantnow.com
+conatysystems.com
