@@ -1,0 +1,26 @@
+### This is a list of all the DNSBL Lists that I use right now. 
+### This list is NOT to be used directly inside of any DNSBL
+### This is really only for me to use and will not be helpful to anyone else. 
+
+## Ads Basic List
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+## Custom Ads List
+https://raw.githubusercontent.com/Glitch3dPenguin/BlockedURLs/main/yeet.txt
+https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
+https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
+
+## pfSense Built in Ads List used
+https://adaway.org/hosts.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
