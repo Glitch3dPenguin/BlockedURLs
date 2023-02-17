@@ -194,3 +194,5 @@ tpc.googlesyndication.com
 googlesyndication.com
 cdn.taboola.com
 taboola.com
+img.3lift.com
+3lift.com
