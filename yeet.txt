@@ -199,3 +199,6 @@ img.3lift.com
 metrics.data.hicloud.com
 logservice1.hicloud.com
 logbak.hicloud.com
+rumcdn.geoedge.be
+cdn.gotchosen.com
+gotchosen.com
