@@ -225,3 +225,5 @@ grakorte.com
 realatinusa.com
 molonappidly.com
 s.amazon-adsystem.com
+api.nitropay.com
+tracker.nitropay.com
