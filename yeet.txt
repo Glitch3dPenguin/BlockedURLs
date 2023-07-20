@@ -227,3 +227,5 @@ molonappidly.com
 s.amazon-adsystem.com
 api.nitropay.com
 tracker.nitropay.com
+flashtalking.com
+servedby.flashtalking.com
