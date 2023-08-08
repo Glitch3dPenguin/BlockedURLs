@@ -229,3 +229,5 @@ api.nitropay.com
 tracker.nitropay.com
 flashtalking.com
 servedby.flashtalking.com
+tm-offers.gamingadult.com
+gamingadult.com
