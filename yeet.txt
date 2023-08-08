@@ -231,3 +231,13 @@ flashtalking.com
 servedby.flashtalking.com
 tm-offers.gamingadult.com
 gamingadult.com
+events.hotjar.io
+ads-api.tiktok.com
+business-api.tiktok.com
+udcm.yahoo.com
+adtech.yahooinc.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+grs.hicloud.com
+books-analytics-events.apple.com
+api-adservices.apple.com
