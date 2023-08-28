@@ -241,3 +241,6 @@ bdapi-in-ads.realmemobile.com
 grs.hicloud.com
 books-analytics-events.apple.com
 api-adservices.apple.com
+cdn.revive-adserver.net
+adfstat.yandex.ru
+appmetrica.yandex.ru
