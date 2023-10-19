@@ -244,3 +244,4 @@ api-adservices.apple.com
 cdn.revive-adserver.net
 adfstat.yandex.ru
 appmetrica.yandex.ru
+bc.game
