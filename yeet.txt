@@ -31,6 +31,7 @@ taboola.com
 aax-us-pdx.amazon-adsystem.com
 tpc.googlesyndication.com
 moatads.com
+z.moatads.com
 asuntiljust.xyz
 filedownloader.one
 affiliationjs.s3.amazonaws.com
@@ -267,4 +268,13 @@ cdn.undertone.com
 undertone.com
 eus.rubiconproject.com
 rubiconproject.com
-
+player.aniview.com
+gov.aniview.com
+track1.aniview.com
+aniview.com
+dsum-sec.casalemedia.com
+casalemedia.com
+indexexchange.com
+cs.lkqd.net
+lkqd.net
+x.bidswitch.net
