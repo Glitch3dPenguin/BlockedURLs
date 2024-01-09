@@ -247,6 +247,7 @@ bc.game
 pixel.adsafeprotected.com
 dt.adsafeprotected.com
 pubads.g.doubleclick.net
+unified.adsafeprotected.com
 static.adsafeprotected.com
 ads.pubmatic.com
 image6.pubmatic.com
@@ -278,6 +279,7 @@ gov.aniview.com
 track1.aniview.com
 aniview.com
 dsum-sec.casalemedia.com
+ssum-sec.casalemedia.com
 htlb.casalemedia.com
 casalemedia.com
 indexexchange.com
