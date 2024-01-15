@@ -281,6 +281,7 @@ aniview.com
 dsum-sec.casalemedia.com
 ssum-sec.casalemedia.com
 htlb.casalemedia.com
+as-sec.casalemedia.com
 casalemedia.com
 indexexchange.com
 cs.lkqd.net
@@ -306,3 +307,11 @@ mos.fie.futurecdn.net
 fie.futurecdn.net
 futurecdn.net
 search-api.fie.futurecdn.net
+cm.g.doubleclick.net
+ad-events.flashtalking.com
+events.bouncex.net
+bouncex.net
+ssp.wknd.ai
+wknd.ai
+ib.adnxs.com
+adnxs.com
