@@ -324,3 +324,8 @@ rpc-php.trafficfactory.biz
 trafficfactory.biz
 afcdn.net
 orbsrv.com
+check-tl-ver-176-2.com
+kbaou.check-tl-ver-176-2.com
+cat.us5.us.criteo.com
+us5.us.criteo.com
+criteo.com
